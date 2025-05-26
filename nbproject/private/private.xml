@@ -12,13 +12,17 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Downloads/Store.Management.System/src/deo/ConnectionProvider.java</file>
             <file>file:/D:/Downloads/Store.Management.System/src/Login.java</file>
             <file>file:/D:/Downloads/Store.Management.System/src/Home.java</file>
             <file>file:/D:/Downloads/Store.Management.System/src/Manageuser.java</file>
             <file>file:/D:/Downloads/Store.Management.System/src/Order.java</file>
             <file>file:/D:/Downloads/Store.Management.System/src/Product.java</file>
             <file>file:/D:/Downloads/Store.Management.System/src/ViewOrder.java</file>
+            <file>file:/D:/Downloads/Store.Management.System/src/Catagory.java</file>
+            <file>file:/D:/Downloads/Store.Management.System/src/Customer.java</file>
+            <file>file:/D:/Downloads/Store.Management.System/src/deo/ConnectionProvider.java</file>
+            <file>file:/D:/Downloads/Store.Management.System/src/deo/tables.java</file>
+            <file>file:/D:/Downloads/Store.Management.System/src/deo/StoreUtils.java</file>
         </group>
     </open-files>
 </project-private>
